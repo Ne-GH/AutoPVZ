@@ -5,3 +5,4 @@ out
 CMakeLists.txt.user
 CMakePresets.json
 CMakeUserPresets.json
+__pycache__
