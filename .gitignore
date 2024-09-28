@@ -1,0 +1,7 @@
+.vs
+out
+.idea
+.venv
+CMakeLists.txt.user
+CMakePresets.json
+CMakeUserPresets.json
